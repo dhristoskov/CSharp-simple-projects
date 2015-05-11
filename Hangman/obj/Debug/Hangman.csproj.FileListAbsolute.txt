@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\Hangman\bin\Debug\Hangman.exe.config
+D:\VSProjects\SelfTraining\Challenges\Hangman\bin\Debug\Hangman.exe
+D:\VSProjects\SelfTraining\Challenges\Hangman\bin\Debug\Hangman.pdb
+D:\VSProjects\SelfTraining\Challenges\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\Hangman\obj\Debug\Hangman.exe
+D:\VSProjects\SelfTraining\Challenges\Hangman\obj\Debug\Hangman.pdb
