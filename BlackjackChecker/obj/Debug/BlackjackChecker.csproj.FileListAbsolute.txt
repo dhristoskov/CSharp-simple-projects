@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\bin\Debug\BlackjackChecker.exe.config
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\bin\Debug\BlackjackChecker.exe
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\bin\Debug\BlackjackChecker.pdb
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\obj\Debug\BlackjackChecker.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\obj\Debug\BlackjackChecker.exe
+D:\VSProjects\SelfTraining\Challenges\BlackjackChecker\obj\Debug\BlackjackChecker.pdb
