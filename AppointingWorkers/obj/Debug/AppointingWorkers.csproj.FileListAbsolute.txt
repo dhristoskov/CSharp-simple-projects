@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\bin\Debug\AppointingWorkers.exe.config
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\bin\Debug\AppointingWorkers.exe
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\bin\Debug\AppointingWorkers.pdb
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\obj\Debug\AppointingWorkers.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\obj\Debug\AppointingWorkers.exe
+D:\VSProjects\SelfTraining\Challenges\AppointingWorkers\obj\Debug\AppointingWorkers.pdb
