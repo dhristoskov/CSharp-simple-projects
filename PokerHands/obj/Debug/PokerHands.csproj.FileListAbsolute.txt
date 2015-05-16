@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\PokerHands\bin\Debug\PokerHands.exe.config
+D:\VSProjects\SelfTraining\Challenges\PokerHands\obj\Debug\PokerHands.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\PokerHands\bin\Debug\PokerHands.exe
+D:\VSProjects\SelfTraining\Challenges\PokerHands\bin\Debug\PokerHands.pdb
+D:\VSProjects\SelfTraining\Challenges\PokerHands\obj\Debug\PokerHands.exe
+D:\VSProjects\SelfTraining\Challenges\PokerHands\obj\Debug\PokerHands.pdb

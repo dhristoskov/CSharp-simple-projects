@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\bin\Debug\2DArrayRotate.exe.config
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\bin\Debug\2DArrayRotate.exe
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\bin\Debug\2DArrayRotate.pdb
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\obj\Debug\2DArrayRotate.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\obj\Debug\2DArrayRotate.exe
+D:\VSProjects\SelfTraining\Challenges\2DArrayRotate\obj\Debug\2DArrayRotate.pdb

@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\bin\Debug\GravityCalculator.exe.config
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\bin\Debug\GravityCalculator.exe
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\bin\Debug\GravityCalculator.pdb
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\obj\Debug\GravityCalculator.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\obj\Debug\GravityCalculator.exe
+D:\VSProjects\SelfTraining\Challenges\GravityCalculator\obj\Debug\GravityCalculator.pdb

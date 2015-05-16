@@ -1,0 +1,6 @@
+D:\VSProjects\SelfTraining\Challenges\StudentManag\bin\Debug\StudentManag.exe.config
+D:\VSProjects\SelfTraining\Challenges\StudentManag\bin\Debug\StudentManag.exe
+D:\VSProjects\SelfTraining\Challenges\StudentManag\bin\Debug\StudentManag.pdb
+D:\VSProjects\SelfTraining\Challenges\StudentManag\obj\Debug\StudentManag.csprojResolveAssemblyReference.cache
+D:\VSProjects\SelfTraining\Challenges\StudentManag\obj\Debug\StudentManag.exe
+D:\VSProjects\SelfTraining\Challenges\StudentManag\obj\Debug\StudentManag.pdb
