@@ -1,0 +1,6 @@
+D:\VSProjects\CAdvanced6\OddLines\bin\Debug\OddLines.exe.config
+D:\VSProjects\CAdvanced6\OddLines\bin\Debug\OddLines.exe
+D:\VSProjects\CAdvanced6\OddLines\bin\Debug\OddLines.pdb
+D:\VSProjects\CAdvanced6\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+D:\VSProjects\CAdvanced6\OddLines\obj\Debug\OddLines.exe
+D:\VSProjects\CAdvanced6\OddLines\obj\Debug\OddLines.pdb

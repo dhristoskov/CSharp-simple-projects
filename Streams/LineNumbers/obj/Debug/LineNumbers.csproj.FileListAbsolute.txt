@@ -1,0 +1,5 @@
+D:\VSProjects\CAdvanced6\LineNumbers\bin\Debug\LineNumbers.exe.config
+D:\VSProjects\CAdvanced6\LineNumbers\bin\Debug\LineNumbers.exe
+D:\VSProjects\CAdvanced6\LineNumbers\bin\Debug\LineNumbers.pdb
+D:\VSProjects\CAdvanced6\LineNumbers\obj\Debug\LineNumbers.exe
+D:\VSProjects\CAdvanced6\LineNumbers\obj\Debug\LineNumbers.pdb

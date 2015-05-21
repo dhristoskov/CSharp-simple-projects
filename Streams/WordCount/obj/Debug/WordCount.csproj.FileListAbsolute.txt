@@ -1,0 +1,1 @@
+D:\VSProjects\CAdvanced6\WordCount\bin\Debug\WordCount.exe.config
