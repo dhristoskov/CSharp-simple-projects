@@ -1,0 +1,6 @@
+D:\VSProjects\FunctionalProgramming\LittleJohn\bin\Debug\LittleJohn.exe.config
+D:\VSProjects\FunctionalProgramming\LittleJohn\bin\Debug\LittleJohn.exe
+D:\VSProjects\FunctionalProgramming\LittleJohn\bin\Debug\LittleJohn.pdb
+D:\VSProjects\FunctionalProgramming\LittleJohn\obj\Debug\LittleJohn.csprojResolveAssemblyReference.cache
+D:\VSProjects\FunctionalProgramming\LittleJohn\obj\Debug\LittleJohn.exe
+D:\VSProjects\FunctionalProgramming\LittleJohn\obj\Debug\LittleJohn.pdb

@@ -1,0 +1,1 @@
+D:\VSProjects\FunctionalProgramming\TextGravity\bin\Debug\TextGravity.exe.config

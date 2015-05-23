@@ -1,0 +1,6 @@
+D:\VSProjects\FunctionalProgramming\Students\bin\Debug\Students.exe.config
+D:\VSProjects\FunctionalProgramming\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+D:\VSProjects\FunctionalProgramming\Students\bin\Debug\Students.exe
+D:\VSProjects\FunctionalProgramming\Students\bin\Debug\Students.pdb
+D:\VSProjects\FunctionalProgramming\Students\obj\Debug\Students.exe
+D:\VSProjects\FunctionalProgramming\Students\obj\Debug\Students.pdb

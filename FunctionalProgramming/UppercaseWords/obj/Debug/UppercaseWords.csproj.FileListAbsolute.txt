@@ -1,0 +1,1 @@
+D:\VSProjects\FunctionalProgramming\UppercaseWords\bin\Debug\UppercaseWords.exe.config

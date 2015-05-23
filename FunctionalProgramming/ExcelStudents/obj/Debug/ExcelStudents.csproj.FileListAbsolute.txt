@@ -1,0 +1,8 @@
+D:\VSProjects\FunctionalProgramming\ExcelStudents\bin\Debug\ExcelStudents.exe.config
+D:\VSProjects\FunctionalProgramming\ExcelStudents\obj\Debug\ExcelStudents.csprojResolveAssemblyReference.cache
+D:\VSProjects\FunctionalProgramming\ExcelStudents\bin\Debug\ExcelStudents.exe
+D:\VSProjects\FunctionalProgramming\ExcelStudents\bin\Debug\ExcelStudents.pdb
+D:\VSProjects\FunctionalProgramming\ExcelStudents\bin\Debug\EPPlus.dll
+D:\VSProjects\FunctionalProgramming\ExcelStudents\bin\Debug\EPPlus.xml
+D:\VSProjects\FunctionalProgramming\ExcelStudents\obj\Debug\ExcelStudents.exe
+D:\VSProjects\FunctionalProgramming\ExcelStudents\obj\Debug\ExcelStudents.pdb

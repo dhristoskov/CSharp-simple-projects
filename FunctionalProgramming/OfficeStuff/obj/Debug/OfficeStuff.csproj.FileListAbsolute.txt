@@ -1,0 +1,6 @@
+D:\VSProjects\FunctionalProgramming\OfficeStuff\bin\Debug\OfficeStuff.exe.config
+D:\VSProjects\FunctionalProgramming\OfficeStuff\bin\Debug\OfficeStuff.exe
+D:\VSProjects\FunctionalProgramming\OfficeStuff\bin\Debug\OfficeStuff.pdb
+D:\VSProjects\FunctionalProgramming\OfficeStuff\obj\Debug\OfficeStuff.csprojResolveAssemblyReference.cache
+D:\VSProjects\FunctionalProgramming\OfficeStuff\obj\Debug\OfficeStuff.exe
+D:\VSProjects\FunctionalProgramming\OfficeStuff\obj\Debug\OfficeStuff.pdb
