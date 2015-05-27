@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\AddingAngles\bin\Debug\AddingAngles.exe.config
+D:\VSProjects\ExamPreparation\AddingAngles\bin\Debug\AddingAngles.exe
+D:\VSProjects\ExamPreparation\AddingAngles\bin\Debug\AddingAngles.pdb
+D:\VSProjects\ExamPreparation\AddingAngles\obj\Debug\AddingAngles.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\AddingAngles\obj\Debug\AddingAngles.exe
+D:\VSProjects\ExamPreparation\AddingAngles\obj\Debug\AddingAngles.pdb

@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\VladkoNotebook\bin\Debug\VladkoNotebook.exe.config
+D:\VSProjects\ExamPreparation\VladkoNotebook\bin\Debug\VladkoNotebook.exe
+D:\VSProjects\ExamPreparation\VladkoNotebook\bin\Debug\VladkoNotebook.pdb
+D:\VSProjects\ExamPreparation\VladkoNotebook\obj\Debug\VladkoNotebook.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\VladkoNotebook\obj\Debug\VladkoNotebook.exe
+D:\VSProjects\ExamPreparation\VladkoNotebook\obj\Debug\VladkoNotebook.pdb

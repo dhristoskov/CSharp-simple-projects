@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\DozensEggs\bin\Debug\DozensEggs.exe.config
+D:\VSProjects\ExamPreparation\DozensEggs\bin\Debug\DozensEggs.exe
+D:\VSProjects\ExamPreparation\DozensEggs\bin\Debug\DozensEggs.pdb
+D:\VSProjects\ExamPreparation\DozensEggs\obj\Debug\DozensEggs.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\DozensEggs\obj\Debug\DozensEggs.exe
+D:\VSProjects\ExamPreparation\DozensEggs\obj\Debug\DozensEggs.pdb

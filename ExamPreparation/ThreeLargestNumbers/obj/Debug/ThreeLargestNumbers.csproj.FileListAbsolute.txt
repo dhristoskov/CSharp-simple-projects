@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\bin\Debug\ThreeLargestNumbers.exe.config
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\bin\Debug\ThreeLargestNumbers.exe
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\bin\Debug\ThreeLargestNumbers.pdb
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\obj\Debug\ThreeLargestNumbers.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\obj\Debug\ThreeLargestNumbers.exe
+D:\VSProjects\ExamPreparation\ThreeLargestNumbers\obj\Debug\ThreeLargestNumbers.pdb

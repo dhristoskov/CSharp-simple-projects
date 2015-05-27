@@ -1,0 +1,5 @@
+D:\VSProjects\ExamPreparation\CountBeers\bin\Debug\CountBeers.exe.config
+D:\VSProjects\ExamPreparation\CountBeers\bin\Debug\CountBeers.exe
+D:\VSProjects\ExamPreparation\CountBeers\bin\Debug\CountBeers.pdb
+D:\VSProjects\ExamPreparation\CountBeers\obj\Debug\CountBeers.exe
+D:\VSProjects\ExamPreparation\CountBeers\obj\Debug\CountBeers.pdb

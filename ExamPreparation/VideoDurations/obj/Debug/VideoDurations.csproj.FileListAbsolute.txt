@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\VideoDurations\bin\Debug\VideoDurations.exe.config
+D:\VSProjects\ExamPreparation\VideoDurations\bin\Debug\VideoDurations.exe
+D:\VSProjects\ExamPreparation\VideoDurations\bin\Debug\VideoDurations.pdb
+D:\VSProjects\ExamPreparation\VideoDurations\obj\Debug\VideoDurations.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\VideoDurations\obj\Debug\VideoDurations.exe
+D:\VSProjects\ExamPreparation\VideoDurations\obj\Debug\VideoDurations.pdb

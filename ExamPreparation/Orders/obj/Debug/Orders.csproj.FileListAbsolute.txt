@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\Orders\bin\Debug\Orders.exe.config
+D:\VSProjects\ExamPreparation\Orders\bin\Debug\Orders.exe
+D:\VSProjects\ExamPreparation\Orders\bin\Debug\Orders.pdb
+D:\VSProjects\ExamPreparation\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\Orders\obj\Debug\Orders.exe
+D:\VSProjects\ExamPreparation\Orders\obj\Debug\Orders.pdb

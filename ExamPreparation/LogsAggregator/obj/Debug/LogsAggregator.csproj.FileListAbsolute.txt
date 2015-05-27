@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+D:\VSProjects\ExamPreparation\LogsAggregator\bin\Debug\LogsAggregator.exe
+D:\VSProjects\ExamPreparation\LogsAggregator\bin\Debug\LogsAggregator.pdb
+D:\VSProjects\ExamPreparation\LogsAggregator\obj\Debug\LogsAggregator.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\LogsAggregator\obj\Debug\LogsAggregator.exe
+D:\VSProjects\ExamPreparation\LogsAggregator\obj\Debug\LogsAggregator.pdb

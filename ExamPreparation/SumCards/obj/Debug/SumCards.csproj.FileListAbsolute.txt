@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\SumCards\bin\Debug\SumCards.exe.config
+D:\VSProjects\ExamPreparation\SumCards\bin\Debug\SumCards.exe
+D:\VSProjects\ExamPreparation\SumCards\bin\Debug\SumCards.pdb
+D:\VSProjects\ExamPreparation\SumCards\obj\Debug\SumCards.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\SumCards\obj\Debug\SumCards.exe
+D:\VSProjects\ExamPreparation\SumCards\obj\Debug\SumCards.pdb

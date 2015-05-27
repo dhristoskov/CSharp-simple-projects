@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\SimpleExpression\bin\Debug\SimpleExpression.exe.config
+D:\VSProjects\ExamPreparation\SimpleExpression\bin\Debug\SimpleExpression.exe
+D:\VSProjects\ExamPreparation\SimpleExpression\bin\Debug\SimpleExpression.pdb
+D:\VSProjects\ExamPreparation\SimpleExpression\obj\Debug\SimpleExpression.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\SimpleExpression\obj\Debug\SimpleExpression.exe
+D:\VSProjects\ExamPreparation\SimpleExpression\obj\Debug\SimpleExpression.pdb

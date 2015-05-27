@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\LargestRectangles\bin\Debug\LargestRectangles.exe.config
+D:\VSProjects\ExamPreparation\LargestRectangles\bin\Debug\LargestRectangles.exe
+D:\VSProjects\ExamPreparation\LargestRectangles\bin\Debug\LargestRectangles.pdb
+D:\VSProjects\ExamPreparation\LargestRectangles\obj\Debug\LargestRectangles.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\LargestRectangles\obj\Debug\LargestRectangles.exe
+D:\VSProjects\ExamPreparation\LargestRectangles\obj\Debug\LargestRectangles.pdb

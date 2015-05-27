@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\TheNumbers\bin\Debug\TheNumbers.exe.config
+D:\VSProjects\ExamPreparation\TheNumbers\bin\Debug\TheNumbers.exe
+D:\VSProjects\ExamPreparation\TheNumbers\bin\Debug\TheNumbers.pdb
+D:\VSProjects\ExamPreparation\TheNumbers\obj\Debug\TheNumbers.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\TheNumbers\obj\Debug\TheNumbers.exe
+D:\VSProjects\ExamPreparation\TheNumbers\obj\Debug\TheNumbers.pdb

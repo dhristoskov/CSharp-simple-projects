@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\GandalfStash\bin\Debug\GandalfStash.exe.config
+D:\VSProjects\ExamPreparation\GandalfStash\bin\Debug\GandalfStash.exe
+D:\VSProjects\ExamPreparation\GandalfStash\bin\Debug\GandalfStash.pdb
+D:\VSProjects\ExamPreparation\GandalfStash\obj\Debug\GandalfStash.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\GandalfStash\obj\Debug\GandalfStash.exe
+D:\VSProjects\ExamPreparation\GandalfStash\obj\Debug\GandalfStash.pdb
