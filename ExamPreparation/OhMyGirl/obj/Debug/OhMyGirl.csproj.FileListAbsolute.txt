@@ -1,1 +1,6 @@
 D:\VSProjects\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.exe.config
+D:\VSProjects\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.exe
+D:\VSProjects\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.pdb
+D:\VSProjects\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.exe
+D:\VSProjects\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.pdb

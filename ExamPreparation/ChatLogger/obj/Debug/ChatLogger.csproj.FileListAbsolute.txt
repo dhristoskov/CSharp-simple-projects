@@ -1,0 +1,1 @@
+D:\VSProjects\ExamPreparation\ChatLogger\bin\Debug\ChatLogger.exe.config
